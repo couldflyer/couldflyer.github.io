@@ -1,63 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>First blog</title>
-    <url>/2024/02/19/First-blog/</url>
-    <content><![CDATA[<h1 id="哇，hexo博客"><a href="#哇，hexo博客" class="headerlink" title="哇，hexo博客"></a>哇，hexo博客</h1><p>这次的博客如果搭建成功了，那么绝对是技术力大爆发，现在还在改配置，这个博客主题太多了，设置也多只，没有之前的那个博客无脑，不过总之，先开始搞吧˘ᗜ˘</p>
-<hr>
-<p>(ó﹏ò｡) 靠靠靠，搞了几个小时，终于搞成了，先发这一篇博客，回头再说cdn的事_(´□&#96;」 ∠)_</p>
-<hr>
-<p>OK啊，评论搞好了，然后发现Github pages自带CDN在国内即使打开没那么快，但是也是能打开的，毕竟人家也不是专门搞这个的</p>
-<p>最最最重要的是主题美化啦，尽管现在没那么好看，但是上线高啊</p>
-<p>大概就是这些了，应该不会有大变动了꒰ <em>•ɷ•</em> ꒱  </p>
-<hr>
-<p>我又回来了，这个域名其实早就换了，只是我一直没有说，主要是懒得写，也是套上了cloudflare的CDN，速度不是很快但也能用，就这样吧</p>
-]]></content>
-      <categories>
-        <category>闲聊</category>
-      </categories>
-      <tags>
-        <tag>闲聊</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>ChatGPT</title>
-    <url>/2024/03/03/ChatGPT/</url>
-    <content><![CDATA[<h5 id="今天闲着没事，脑海中灵光一现，我要玩ChatGPT，我打开了官网，注册了一个账号，最后也是玩上了，只是玩的时候过于麻烦，具体怎么个麻烦法，自行百度。于是我决定，要自己搞一个ChatGPT的网站，搞的过程就不说了，只是说一下怎么使用。"><a href="#今天闲着没事，脑海中灵光一现，我要玩ChatGPT，我打开了官网，注册了一个账号，最后也是玩上了，只是玩的时候过于麻烦，具体怎么个麻烦法，自行百度。于是我决定，要自己搞一个ChatGPT的网站，搞的过程就不说了，只是说一下怎么使用。" class="headerlink" title="今天闲着没事，脑海中灵光一现，我要玩ChatGPT，我打开了官网，注册了一个账号，最后也是玩上了，只是玩的时候过于麻烦，具体怎么个麻烦法，自行百度。于是我决定，要自己搞一个ChatGPT的网站，搞的过程就不说了，只是说一下怎么使用。"></a>今天闲着没事，脑海中灵光一现，我要玩ChatGPT，我打开了官网，注册了一个账号，最后也是玩上了，只是玩的时候过于麻烦，具体怎么个麻烦法，自行百度。于是我决定，要自己搞一个ChatGPT的网站，搞的过程就不说了，只是说一下怎么使用。</h5><hr>
-<p>首先打开网站<a href="https://gpt.liudn.pp.ua/">ChatGPT</a><br>打开后点击新的对话<br><img src="https://s2.loli.net/2024/03/03/mLgC6qvMYF9Pl3Q.jpg" alt="Screenshot_2024-03-03-15-02-19-58_df198e732186825c8df26e3c5a10d7cd.jpg"><br>点击蓝字<code>首页</code>，在访问码那里输入<code>100808lts</code><br>然后就可以聊天了，此外还可以切换模型  </p>
-<p>点击左上角返回，然后点击设置<br><img src="https://s2.loli.net/2024/03/03/WmR4S32OzJ78d1p.jpg" alt="IMG_20240303_151127.jpg"><br>往下滑，找到模型选项，点击它<br><img src="https://s2.loli.net/2024/03/03/4b86ZDLrOmacPjW.jpg" alt="IMG_20240303_151448.jpg"><br>找到GPT-4(OpenAI)这个选项，选择它即可，然后点击右上角关闭，最后就是愉快的使用ChatGPT了<br>其实这就相当于超级加强版的搜索引擎，但是它没有广告，而且基本不会给出你无关的信息，但是它的数据库停留在2021年，所以最新的事情他可能会不知道，并且不会给出一些违法的问题的答案，所以要合理使用  </p>
-<h2 id="靠了，放学回来一看，不能用了，有时间了再修吧"><a href="#靠了，放学回来一看，不能用了，有时间了再修吧" class="headerlink" title="靠了，放学回来一看，不能用了，有时间了再修吧"></a>靠了，放学回来一看，不能用了，有时间了再修吧</h2>]]></content>
-      <categories>
-        <category>教程</category>
-      </categories>
-      <tags>
-        <tag>分享</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>写作业有感</title>
     <url>/2024/02/24/%E5%86%99%E4%BD%9C%E4%B8%9A%E6%9C%89%E6%84%9F/</url>
-    <content><![CDATA[<h4 id="哈哈哈哈哈哈哈哼哼哼哼哼哼哼哼哼呜呜呜呜呜呜呜，我又补了一晚上作业，还是没写完，明天还得写，我真是造了什么孽啊哈哈哈哈哈哈。"><a href="#哈哈哈哈哈哈哈哼哼哼哼哼哼哼哼哼呜呜呜呜呜呜呜，我又补了一晚上作业，还是没写完，明天还得写，我真是造了什么孽啊哈哈哈哈哈哈。" class="headerlink" title="哈哈哈哈哈哈哈哼哼哼哼哼哼哼哼哼呜呜呜呜呜呜呜，我又补了一晚上作业，还是没写完，明天还得写，我真是造了什么孽啊哈哈哈哈哈哈。"></a>哈哈哈哈哈哈哈哼哼哼哼哼哼哼哼哼呜呜呜呜呜呜呜，我又补了一晚上作业，还是没写完，明天还得写，我真是造了什么孽啊哈哈哈哈哈哈。</h4><h4 id="但是话又说回来，这次语文摘抄让我看到了一些emo句，不能让我大半夜一个人emo"><a href="#但是话又说回来，这次语文摘抄让我看到了一些emo句，不能让我大半夜一个人emo" class="headerlink" title="但是话又说回来，这次语文摘抄让我看到了一些emo句，不能让我大半夜一个人emo"></a>但是话又说回来，这次语文摘抄让我看到了一些emo句，不能让我大半夜一个人emo</h4><hr>
+    <content><![CDATA[<h4 id="哈哈哈哈哈哈哈哼哼哼哼哼哼哼哼哼呜呜呜呜呜呜呜，我又补了一晚上作业，还是没写完，明天还得写，我真是造了什么孽啊哈哈哈哈哈哈。">哈哈哈哈哈哈哈哼哼哼哼哼哼哼哼哼呜呜呜呜呜呜呜，我又补了一晚上作业，还是没写完，明天还得写，我真是造了什么孽啊哈哈哈哈哈哈。</h4>
+<h4 id="但是话又说回来，这次语文摘抄让我看到了一些emo句，不能让我大半夜一个人emo">但是话又说回来，这次语文摘抄让我看到了一些emo句，不能让我大半夜一个人emo</h4>
+<hr>
 <ol>
-<li><p>很久以前，我们无数次的擦肩而过，从今以后，我再不会错过与你牵手的机会，因为爱你，所以愿意，愿意去用心，愿意去珍惜，由你存在我的生命里。爱上你，是我今生的美。</p>
+<li>
+<p>很久以前，我们无数次的擦肩而过，从今以后，我再不会错过与你牵手的机会，因为爱你，所以愿意，愿意去用心，愿意去珍惜，由你存在我的生命里。爱上你，是我今生的美。</p>
 </li>
-<li><p>怎样的一场落叶匆匆，让死亡也这般地灿烂从容。都说韶光如梦，看惯了秋月春风，人生故事本相同，可终究，无法割舍一段美丽的相逢。往事就像一场无言的秋红，流水光阴也不过是梅花三弄。纵算水尽山穷，叶落成空，那老去的年华依旧可以风姿万种。纵算岁月朦胧，天涯西东，依然可以觅寻当年遗落的影踪。</p>
+<li>
+<p>怎样的一场落叶匆匆，让死亡也这般地灿烂从容。都说韶光如梦，看惯了秋月春风，人生故事本相同，可终究，无法割舍一段美丽的相逢。往事就像一场无言的秋红，流水光阴也不过是梅花三弄。纵算水尽山穷，叶落成空，那老去的年华依旧可以风姿万种。纵算岁月朦胧，天涯西东，依然可以觅寻当年遗落的影踪。</p>
 </li>
-<li><p>至今，我们都无法真正分辨出，落花与流水，到底是谁有情，谁无意。又或许并无情意之说，不过是红尘中的一场偶遇，一旦分别，两无痕迹。</p>
+<li>
+<p>至今，我们都无法真正分辨出，落花与流水，到底是谁有情，谁无意。又或许并无情意之说，不过是红尘中的一场偶遇，一旦分别，两无痕迹。</p>
 </li>
-<li><p>任凭愁思百结，辗转难眠，推轩望月。圆月高悬，散落满地皎辉。想来，明月必无情，千年风霜尽，多情易老。若有情，早该随风老去。明知月无情，为何屡屡寄情于明月？</p>
+<li>
+<p>任凭愁思百结，辗转难眠，推轩望月。圆月高悬，散落满地皎辉。想来，明月必无情，千年风霜尽，多情易老。若有情，早该随风老去。明知月无情，为何屡屡寄情于明月？</p>
 </li>
-<li><p>一桥春色在江南，杨柳初展意犹寒。燕飞夕阳里，迭荡暮色，留连青萍，万里河山。无语莺啼度芳栏，还看，绿水又东去，眼帘极处洄环。若教眼底无离恨，不信人间有白头。</p>
+<li>
+<p>一桥春色在江南，杨柳初展意犹寒。燕飞夕阳里，迭荡暮色，留连青萍，万里河山。无语莺啼度芳栏，还看，绿水又东去，眼帘极处洄环。若教眼底无离恨，不信人间有白头。</p>
 </li>
-<li><p>不想永远留住霎时的绝美，只要曾经拥有，也就足够了。让曾经拥有成为永恒的体味，让曾经拥有成为珍惜现在的镜子，让曾经拥有成为我们昂然自信的源泉。</p>
+<li>
+<p>不想永远留住霎时的绝美，只要曾经拥有，也就足够了。让曾经拥有成为永恒的体味，让曾经拥有成为珍惜现在的镜子，让曾经拥有成为我们昂然自信的源泉。</p>
 </li>
-<li><p>有时候，等一个人，等得太久了，会忘记他的模样，甚至名姓。有时候，等一朵莲开，等得太久，会让分明的四季，变得模糊不清。可是莲荷，在每年夏季终究要应约而来，但有些人，任你耗费一生的时光，也等不到。</p>
+<li>
+<p>有时候，等一个人，等得太久了，会忘记他的模样，甚至名姓。有时候，等一朵莲开，等得太久，会让分明的四季，变得模糊不清。可是莲荷，在每年夏季终究要应约而来，但有些人，任你耗费一生的时光，也等不到。</p>
 </li>
-<li><p>你是我种下的前因，而我又是谁的果报。世间风景万千，很多时候，我们无法分辨清，谁是你要的那杯茶，谁是你沧海桑田的家。有些人看上去很好，却不能和你一起承接风浪；有些人看似浪子，却是你真正的归者。而这一切，在你遇到人生的坎时，便自见分晓。</p>
+<li>
+<p>你是我种下的前因，而我又是谁的果报。世间风景万千，很多时候，我们无法分辨清，谁是你要的那杯茶，谁是你沧海桑田的家。有些人看上去很好，却不能和你一起承接风浪；有些人看似浪子，却是你真正的归者。而这一切，在你遇到人生的坎时，便自见分晓。</p>
 </li>
-<li><p>林下相逢，不问因果。在熙熙攘攘的人群中奔走，会突然发觉，那些说好了携手天涯的人，竟早早分道扬镳了。这世上岂有真正不被更改的诺言，纵是山和水，天与地之间，也会有相看两厌，心生疲倦的一天。所以，淡然心性，各安天命，如此，就真的简单了。</p>
+<li>
+<p>林下相逢，不问因果。在熙熙攘攘的人群中奔走，会突然发觉，那些说好了携手天涯的人，竟早早分道扬镳了。这世上岂有真正不被更改的诺言，纵是山和水，天与地之间，也会有相看两厌，心生疲倦的一天。所以，淡然心性，各安天命，如此，就真的简单了。</p>
 </li>
-<li><p>有人说，相爱的人厮守在一起，连光阴都是美的。我想说这句话的人，一定是爱过，唯有爱过才可以深刻地体会到，那种拥有以及被拥有的甜蜜。仿佛山川草木都有了情感，每寸肌肤都可以在清风朗月下舒展。爱的时候，会发觉自己是最幸福的人，粗衣素布也秀丽，淡饭清茶也温馨。</p>
+<li>
+<p>有人说，相爱的人厮守在一起，连光阴都是美的。我想说这句话的人，一定是爱过，唯有爱过才可以深刻地体会到，那种拥有以及被拥有的甜蜜。仿佛山川草木都有了情感，每寸肌肤都可以在清风朗月下舒展。爱的时候，会发觉自己是最幸福的人，粗衣素布也秀丽，淡饭清茶也温馨。</p>
 </li>
 </ol>
 <p>能点进来的肯定都是真爱吧，是的话就在下面给我评论一下，也不枉我费了这老鼻子劲才整的评论功能，球球了<img src="https://s2.loli.net/2024/02/24/ewFykCOPTgSKipD.png" alt="球球了.png"></p>
@@ -72,44 +50,68 @@
   <entry>
     <title>如何免费创建Hexo博客</title>
     <url>/2024/02/20/%E5%A6%82%E4%BD%95%E5%85%8D%E8%B4%B9%E5%88%9B%E5%BB%BAHexo%E5%8D%9A%E5%AE%A2/</url>
-    <content><![CDATA[<h4 id="emsp-Hexo博客算是一个最好的博客框架之一了，但是用他搭建博客的话有的方法很简单，有的方法比较复杂，但是简单的方法还得拥有自己的域名，咱们现在教你的方法就是永久免费（除非Github跑路，但是也不太可能）"><a href="#emsp-Hexo博客算是一个最好的博客框架之一了，但是用他搭建博客的话有的方法很简单，有的方法比较复杂，但是简单的方法还得拥有自己的域名，咱们现在教你的方法就是永久免费（除非Github跑路，但是也不太可能）" class="headerlink" title="&emsp;Hexo博客算是一个最好的博客框架之一了，但是用他搭建博客的话有的方法很简单，有的方法比较复杂，但是简单的方法还得拥有自己的域名，咱们现在教你的方法就是永久免费（除非Github跑路，但是也不太可能）"></a>&emsp;Hexo博客算是一个最好的博客框架之一了，但是用他搭建博客的话有的方法很简单，有的方法比较复杂，但是简单的方法还得拥有自己的域名，咱们现在教你的方法就是永久免费（除非Github跑路，但是也不太可能）</h4><hr>
+    <content><![CDATA[<h4 id="Hexo博客算是一个最好的博客框架之一了，但是用他搭建博客的话有的方法很简单，有的方法比较复杂，但是简单的方法还得拥有自己的域名，咱们现在教你的方法就是永久免费（除非Github跑路，但是也不太可能）"> Hexo博客算是一个最好的博客框架之一了，但是用他搭建博客的话有的方法很简单，有的方法比较复杂，但是简单的方法还得拥有自己的域名，咱们现在教你的方法就是永久免费（除非Github跑路，但是也不太可能）</h4>
+<hr>
 <ul>
 <li><strong>首先，注册一个邮箱</strong></li>
 </ul>
-<p>在国内想要好的体验的话，建议注册outlook<br><a href="https://account.microsoft.com/account/Account?mkt=zh-CN">链接</a><br>点击登陆，再点击创建一个用户，然后进行设置，如果创建完成后可以下载一个邮箱管理软件，也可以网页管理邮箱  </p>
+<p>在国内想要好的体验的话，建议注册outlook<br>
+<a href="https://account.microsoft.com/account/Account?mkt=zh-CN">链接</a><br>
+点击登陆，再点击创建一个用户，然后进行设置，如果创建完成后可以下载一个邮箱管理软件，也可以网页管理邮箱</p>
 <ul>
 <li><strong>注册Github，创建repository</strong></li>
 </ul>
 <blockquote>
-<p>提醒:在国内注册Github可能有点卡，如果太卡可以换个时间点，这个我也没办法  </p>
+<p>提醒:在国内注册Github可能有点卡，如果太卡可以换个时间点，这个我也没办法</p>
 </blockquote>
-<p>  点击<a href="https://github.com/">Github链接</a>然后在 Email address里填入自己注册的链接<br>再点击下面的紫色按钮，开始注册<br>注册完成登陆后<a href="https://github.com/new">点击这个链接</a><br>Repository name里填 “username.github.io”<br>username替换为你的用户名  </p>
-<h4 id="注意！注意！注意！你的用户名是说你注册Github的用户名，例如：”liutsyyds-github-io”，而不是”你的用户名-github-io”，下文同样如此"><a href="#注意！注意！注意！你的用户名是说你注册Github的用户名，例如：”liutsyyds-github-io”，而不是”你的用户名-github-io”，下文同样如此" class="headerlink" title="注意！注意！注意！你的用户名是说你注册Github的用户名，例如：”liutsyyds.github.io”，而不是”你的用户名.github.io”，下文同样如此"></a>注意！注意！注意！你的用户名是说你注册Github的用户名，例如：”liutsyyds.github.io”，而不是”你的用户名.github.io”，下文同样如此</h4><p>其他的不用管，点击Create repository<br>创建成功后，进行下一步</p>
+<p>点击<a href="https://github.com/">Github链接</a>然后在 Email address里填入自己注册的链接<br>
+再点击下面的紫色按钮，开始注册<br>
+注册完成登陆后<a href="https://github.com/new">点击这个链接</a><br>
+Repository name里填 “<a href="http://username.github.io">username.github.io</a>”<br>
+username替换为你的用户名</p>
+<h4 id="注意！注意！注意！你的用户名是说你注册Github的用户名，例如：“liutsyyds-github-io”，而不是-你的用户名-github-io-，下文同样如此">注意！注意！注意！你的用户名是说你注册Github的用户名，例如：“<a href="http://liutsyyds.github.io">liutsyyds.github.io</a>”，而不是&quot;<a href="http://xn--6qqv7i14ofosyrb.github.io">你的用户名.github.io</a>&quot;，下文同样如此</h4>
+<p>其他的不用管，点击Create repository<br>
+创建成功后，进行下一步</p>
 <ul>
 <li><strong>安装termux并进行配置</strong></li>
 </ul>
-<p><a href="https://f-droid.org/repo/com.termux_118.apk">下载链接</a><br>如果访问不了或太慢建议百度搜索一下<br>接着使用代码进行更新  </p>
-<h4 id="如果运行过程中停顿并出现-Y-n-选项，输入y并回车"><a href="#如果运行过程中停顿并出现-Y-n-选项，输入y并回车" class="headerlink" title="如果运行过程中停顿并出现[Y&#x2F;n]选项，输入y并回车"></a>如果运行过程中停顿并出现[Y&#x2F;n]选项，输入y并回车</h4><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">apt update &amp;&amp; apt upgrade &amp;&amp; apt install wget curl git vim </span><br></pre></td></tr></table></figure>
+<p><a href="https://f-droid.org/repo/com.termux_118.apk">下载链接</a><br>
+如果访问不了或太慢建议百度搜索一下<br>
+接着使用代码进行更新</p>
+<h4 id="如果运行过程中停顿并出现-Y-n-选项，输入y并回车">如果运行过程中停顿并出现[Y/n]选项，输入y并回车</h4>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">apt update &amp;&amp; apt upgrade &amp;&amp; apt install wget curl git vim </span><br></pre></td></tr></table></figure>
 <p>然后再安装proot-distro，通过proot-distro安装ubuntu，再登陆进去，而且以后进入ubuntu只需执行第三行代码</p>
 <figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">apt install proot-distro</span><br><span class="line">proot-distro install ubuntu-20.04</span><br><span class="line">proot-distro login ubuntu</span><br></pre></td></tr></table></figure>
-<p>输入代码时可以三行一起输，也可以一行一行输。<br>进入ubuntu后输入  </p>
+<p>输入代码时可以三行一起输，也可以一行一行输。<br>
+进入ubuntu后输入</p>
 <figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">apt update &amp;&amp; apt upgrade &amp;&amp; apt install wget curl git vim nodejs npm &amp;&amp; npm cache clean -f &amp;&amp; npm install -g n &amp;&amp; n stable</span><br></pre></td></tr></table></figure>
 <ul>
 <li><strong>安装Hexo</strong></li>
 </ul>
 <figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">npm install hexo-cli -g</span><br><span class="line">hexo init 自己喜欢的名字（仅英文）    <span class="comment">#这是你博客的根目录</span></span><br><span class="line"><span class="built_in">cd</span> 自己喜欢的名字（仅英文）</span><br><span class="line">npm install</span><br><span class="line">```  </span><br><span class="line">接着输入，期间一直回车就行了，遇到(y/n)选项时输入y再回车  </span><br><span class="line">```bash</span><br><span class="line">git config --global user.name <span class="string">&quot;你的GitHub用户名&quot;</span></span><br><span class="line">git config --global user.email <span class="string">&quot;你注册github的邮箱&quot;</span></span><br><span class="line">ssh-keygen -t rsa -C <span class="string">&quot;你注册github的邮箱&quot;</span></span><br></pre></td></tr></table></figure>
-<p>然后输入<code>cd</code>  </p>
-<p>再输入<code>vi .ssh/id_rsa.pub</code>  </p>
-<p>复制其中的全部内容，然后打开<a href="https://github.com/settings/ssh/new">链接</a>粘贴到key里，然后点Add ssh key<br>接着<code>cd 之前设置的你喜欢的英文名字/</code>  </p>
-<p><code>vi _config.yml</code>  </p>
+<p>然后输入<code>cd</code></p>
+<p>再输入<code>vi .ssh/id_rsa.pub</code></p>
+<p>复制其中的全部内容，然后打开<a href="https://github.com/settings/ssh/new">链接</a>粘贴到key里，然后点Add ssh key<br>
+接着<code>cd 之前设置的你喜欢的英文名字/</code></p>
+<p><code>vi _config.yml</code></p>
 <p>找到文件最后一行的 deploy 替换以下代码</p>
 <figure class="highlight yml"><table><tr><td class="code"><pre><span class="line"><span class="attr">deploy:</span></span><br><span class="line">  <span class="attr">type:</span> <span class="string">git</span></span><br><span class="line">  <span class="attr">repo:</span> <span class="string">https://github.com/你的github用户名/你的github用户名.github.io.git,main</span></span><br></pre></td></tr></table></figure>
-<h3 id="注意：文件的排列必须和上面的代码一样，不然会报错"><a href="#注意：文件的排列必须和上面的代码一样，不然会报错" class="headerlink" title="注意：文件的排列必须和上面的代码一样，不然会报错"></a>注意：文件的排列必须和上面的代码一样，不然会报错</h3><p>接着输入代码</p>
+<h3 id="注意：文件的排列必须和上面的代码一样，不然会报错">注意：文件的排列必须和上面的代码一样，不然会报错</h3>
+<p>接着输入代码</p>
 <figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">npm install hexo-deployer-git --save</span><br></pre></td></tr></table></figure>
-<p>然后打开<a href="https://github.com/settings/tokens">链接</a><br>点击 Generate new token<br>出现弹窗，选择下面的那个。<br>点击Expiration下面的小方块，选择最下面的选项<br>然后把能打的对勾都打上，点击Generate token，把生成的密钥保存上，一定要保存好。<br>接着回到termux，然后输入</p>
+<p>然后打开<a href="https://github.com/settings/tokens">链接</a><br>
+点击 Generate new token<br>
+出现弹窗，选择下面的那个。<br>
+点击Expiration下面的小方块，选择最下面的选项<br>
+然后把能打的对勾都打上，点击Generate token，把生成的密钥保存上，一定要保存好。<br>
+接着回到termux，然后输入</p>
 <figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">hexo clean &amp;&amp; hexo generate &amp;&amp; hexo deploy</span><br></pre></td></tr></table></figure>
 <p>出现username输入Github的用户名，出现password输入之前的token，如果没显示token不用慌，这是保护隐私的设置，输完后回车就行。</p>
-<p>最后稍等几分钟，在浏览器输入<br>你的github用户名.github.io<br>即可<br>如果想要创建新的文章，就输入<br><code>hexo new &quot;标题&quot;</code>  </p>
+<p>最后稍等几分钟，在浏览器输入<br>
+<a href="http://xn--github-on9im33ani7aou3bged.github.io">你的github用户名.github.io</a><br>
+即可<br>
+如果想要创建新的文章，就输入<br>
+<code>hexo new &quot;标题&quot;</code></p>
 <p>记得要在博客根目录执行</p>
 ]]></content>
       <categories>
@@ -117,6 +119,52 @@
       </categories>
       <tags>
         <tag>教程</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>ChatGPT</title>
+    <url>/2024/03/03/ChatGPT/</url>
+    <content><![CDATA[<h5 id="今天闲着没事，脑海中灵光一现，我要玩ChatGPT，我打开了官网，注册了一个账号，最后也是玩上了，只是玩的时候过于麻烦，具体怎么个麻烦法，自行百度。于是我决定，要自己搞一个ChatGPT的网站，搞的过程就不说了，只是说一下怎么使用。">今天闲着没事，脑海中灵光一现，我要玩ChatGPT，我打开了官网，注册了一个账号，最后也是玩上了，只是玩的时候过于麻烦，具体怎么个麻烦法，自行百度。于是我决定，要自己搞一个ChatGPT的网站，搞的过程就不说了，只是说一下怎么使用。</h5>
+<hr>
+<p>首先打开网站<a href="https://gpt.liudn.pp.ua">ChatGPT</a><br>
+打开后点击新的对话<br>
+<img src="https://s2.loli.net/2024/03/03/mLgC6qvMYF9Pl3Q.jpg" alt="Screenshot_2024-03-03-15-02-19-58_df198e732186825c8df26e3c5a10d7cd.jpg"><br>
+点击蓝字<code>首页</code>，在访问码那里输入<code>100808lts</code><br>
+然后就可以聊天了，此外还可以切换模型</p>
+<p>点击左上角返回，然后点击设置<br>
+<img src="https://s2.loli.net/2024/03/03/WmR4S32OzJ78d1p.jpg" alt="IMG_20240303_151127.jpg"><br>
+往下滑，找到模型选项，点击它<br>
+<img src="https://s2.loli.net/2024/03/03/4b86ZDLrOmacPjW.jpg" alt="IMG_20240303_151448.jpg"><br>
+找到GPT-4(OpenAI)这个选项，选择它即可，然后点击右上角关闭，最后就是愉快的使用ChatGPT了<br>
+其实这就相当于超级加强版的搜索引擎，但是它没有广告，而且基本不会给出你无关的信息，但是它的数据库停留在2021年，所以最新的事情他可能会不知道，并且不会给出一些违法的问题的答案，所以要合理使用</p>
+<h2 id="靠了，放学回来一看，不能用了，有时间了再修吧">靠了，放学回来一看，不能用了，有时间了再修吧</h2>
+]]></content>
+      <categories>
+        <category>教程</category>
+      </categories>
+      <tags>
+        <tag>分享</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>First blog</title>
+    <url>/2024/02/19/First-blog/</url>
+    <content><![CDATA[<h1>哇，hexo博客</h1>
+<p>这次的博客如果搭建成功了，那么绝对是技术力大爆发，现在还在改配置，这个博客主题太多了，设置也多只，没有之前的那个博客无脑，不过总之，先开始搞吧˘ᗜ˘</p>
+<hr>
+<p>(ó﹏ò｡) 靠靠靠，搞了几个小时，终于搞成了，先发这一篇博客，回头再说cdn的事_(´□`」 ∠)_</p>
+<hr>
+<p>OK啊，评论搞好了，然后发现Github pages自带CDN在国内即使打开没那么快，但是也是能打开的，毕竟人家也不是专门搞这个的</p>
+<p>最最最重要的是主题美化啦，尽管现在没那么好看，但是上线高啊</p>
+<p>大概就是这些了，应该不会有大变动了꒰ <em>•ɷ•</em> ꒱</p>
+<hr>
+<p>我又回来了，这个域名其实早就换了，只是我一直没有说，主要是懒得写，也是套上了cloudflare的CDN，速度不是很快但也能用，就这样吧</p>
+]]></content>
+      <categories>
+        <category>闲聊</category>
+      </categories>
+      <tags>
+        <tag>闲聊</tag>
       </tags>
   </entry>
 </search>
